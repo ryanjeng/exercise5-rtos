@@ -59,6 +59,7 @@ Sistem terdiri dari:
 
 4. **Eksperimen Tambahan** *(Opsional)*:
    - Ubah kode untuk membuat LED biru berkedip saat terjadi kontensi. Hal ini akan memberikan gambaran kasar tentang frekuensi kontensi.
+
 ![Demo](./Exercise_5.gif)
 
 ---
