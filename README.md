@@ -63,7 +63,8 @@ Sistem terdiri dari:
 ---
 
 ## **Demonstrasi**
-![RTOS Demontrasion](/Demonstrasi.gif)
+![Exercise5](https://github.com/user-attachments/assets/42c29c1b-3a6a-4a8e-a3b4-9567c22028b1)
+
 
 ---
 
