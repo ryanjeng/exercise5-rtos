@@ -61,7 +61,7 @@ Sistem terdiri dari:
    - Ubah kode untuk membuat LED biru berkedip saat terjadi kontensi. Hal ini akan memberikan gambaran kasar tentang frekuensi kontensi.
 
 Demonstrasi :
-![RTOS Demontrasion](Demonstrasi.gif)
+![RTOS Demontrasion](/Demonstrasi.gif)
 
 ---
 
